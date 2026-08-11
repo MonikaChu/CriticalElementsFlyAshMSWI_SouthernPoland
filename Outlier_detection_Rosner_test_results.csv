@@ -1,0 +1,25 @@
+"Element","n_outliers","alpha","Comment","Outlier_indices"
+"B",1,0.05,"Potential outliers detected","1"
+"Be",1,0.05,"Potential outliers detected","1"
+"Bi",0,0.05,"No statistically significant outliers",NA
+"Co",0,0.05,"No statistically significant outliers",NA
+"Cu",1,0.05,"Potential outliers detected","1"
+"Fe",0,0.05,"No statistically significant outliers",NA
+"Ga",0,0.05,"No statistically significant outliers",NA
+"Ge",0,0.05,"No statistically significant outliers",NA
+"HREE",0,0.05,"No statistically significant outliers",NA
+"In",0,0.05,"No statistically significant outliers",NA
+"LREE",0,0.05,"No statistically significant outliers",NA
+"Li",0,0.05,"No statistically significant outliers",NA
+"Mg",0,0.05,"No statistically significant outliers",NA
+"Nb",4,0.05,"Potential outliers detected","1, 2, 3, 4"
+"P",0,0.05,"No statistically significant outliers",NA
+"Pd",0,0.05,"No statistically significant outliers",NA
+"Pt",1,0.05,"Potential outliers detected","1"
+"Sb",1,0.05,"Potential outliers detected","1"
+"Sc",0,0.05,"No statistically significant outliers",NA
+"Sr",0,0.05,"No statistically significant outliers",NA
+"Tl",2,0.05,"Potential outliers detected","1, 2"
+"V",0,0.05,"No statistically significant outliers",NA
+"W",2,0.05,"Potential outliers detected","1, 2"
+"Zn",0,0.05,"No statistically significant outliers",NA
